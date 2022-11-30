@@ -1,1 +1,21 @@
 # perbaikan
+1 E <br>
+2 E <br>
+3 D <br>
+4 Sebuah <br>
+5 C <br>
+6 D <br>
+7 C <br>
+8 C <br>
+9 B <br>
+10 C <br>
+11 D <br>
+12 B <br>
+13 C <br>
+14 Sebuah <br>
+15 E <br>
+16 D <br>
+17 B <br>
+18 Sebuah <br>
+19 D <br>
+20 E <br>
